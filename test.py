@@ -6,4 +6,4 @@ f.close()
 #open and read the file after the appending:
 f = open("demofile2.txt", "r")
 print(f.read())
-os.remove("demofile2.txt", "r")
+os.remove("demofile2.txt")
