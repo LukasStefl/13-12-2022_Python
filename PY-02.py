@@ -1,8 +1,19 @@
 import os
-f = open("category.txt", "rt")
+f = open("names.txt", "rt")
 
-array = []
+
 d = f.read()
 w = d.split()
-d = print(len(w))
 
+for x in w:
+    w.count("/a/")
+    w.count("/b/")
+    w.count("/c/")
+    w.count("/d/")
+
+
+
+print(w.count("/a/"))
+print(w.count("/b/"))
+print(w.count("/c/"))
+print(w.count("/d/"))
