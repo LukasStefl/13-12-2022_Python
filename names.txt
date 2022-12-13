@@ -98,15 +98,3 @@ Darth
 Lea
 Lea
 Darth
-names.txt
-Zobrazuje se names.txt.
-14.12.
-Karolína Marešová
-•
-9:55 (Upraveno 10:09)
-100 bodů
-https://www.w3schools.com/python/python_file_write.asp
-
-names.txt
-Text
-Komentáře ke kurzu
